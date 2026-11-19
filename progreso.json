@@ -6,7 +6,7 @@
     "JuanPerez",
     "JuanGomez"
   ],
-  "actualizado": "2026-11-19T13:46:02.734Z",
+  "actualizado": "2026-11-19T13:48:44.571Z",
   "entorno": {
     "node": "v26.13.0",
     "sistema": "win32 x64"
@@ -18,7 +18,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T13:34:38.927Z",
-      "ultima": "2026-11-19T13:46:02.746Z",
+      "ultima": "2026-11-19T13:48:44.583Z",
       "comprobaciones": "9/9",
       "evidencia": ""
     },
@@ -28,7 +28,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T13:35:33.673Z",
-      "ultima": "2026-11-19T13:46:02.796Z",
+      "ultima": "2026-11-19T13:48:44.627Z",
       "comprobaciones": "15/15",
       "evidencia": ""
     },
@@ -38,7 +38,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T13:37:03.256Z",
-      "ultima": "2026-11-19T13:46:02.897Z",
+      "ultima": "2026-11-19T13:48:44.718Z",
       "comprobaciones": "12/12",
       "evidencia": ""
     },
@@ -48,7 +48,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T13:40:36.620Z",
-      "ultima": "2026-11-19T13:46:02.925Z",
+      "ultima": "2026-11-19T13:48:44.745Z",
       "comprobaciones": "6/6",
       "evidencia": ""
     }
