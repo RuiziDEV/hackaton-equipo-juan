@@ -1,0 +1,56 @@
+{
+  "esquema": 1,
+  "equipo": "",
+  "integrantes": [
+    "JuanRuiz",
+    "JuanPerez",
+    "JuanGomez"
+  ],
+  "actualizado": "2026-11-19T13:46:02.734Z",
+  "entorno": {
+    "node": "v26.13.0",
+    "sistema": "win32 x64"
+  },
+  "etapas": {
+    "1": {
+      "titulo": "Casos de uso",
+      "puntos": 15,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-11-19T13:34:38.927Z",
+      "ultima": "2026-11-19T13:46:02.746Z",
+      "comprobaciones": "9/9",
+      "evidencia": ""
+    },
+    "2": {
+      "titulo": "Adaptadores de salida",
+      "puntos": 15,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-11-19T13:35:33.673Z",
+      "ultima": "2026-11-19T13:46:02.796Z",
+      "comprobaciones": "15/15",
+      "evidencia": ""
+    },
+    "3": {
+      "titulo": "Adaptador de entrada: la API HTTP",
+      "puntos": 20,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-11-19T13:37:03.256Z",
+      "ultima": "2026-11-19T13:46:02.897Z",
+      "comprobaciones": "12/12",
+      "evidencia": ""
+    },
+    "4": {
+      "titulo": "Composición y regla de dependencias",
+      "puntos": 15,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-11-19T13:40:36.620Z",
+      "ultima": "2026-11-19T13:46:02.925Z",
+      "comprobaciones": "6/6",
+      "evidencia": ""
+    }
+  }
+}
