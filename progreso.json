@@ -1,12 +1,10 @@
 {
   "esquema": 1,
-  "equipo": "",
+  "equipo": "Equipo Juan David Vergara",
   "integrantes": [
-    "JuanRuiz",
-    "JuanPerez",
-    "JuanGomez"
+    "Juan David Vergara"
   ],
-  "actualizado": "2026-11-19T14:06:25.433Z",
+  "actualizado": "2026-11-19T14:09:04.717Z",
   "entorno": {
     "node": "v26.13.0",
     "sistema": "win32 x64"
@@ -18,7 +16,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T14:04:16.503Z",
-      "ultima": "2026-11-19T14:06:24.825Z",
+      "ultima": "2026-11-19T14:09:05.919Z",
       "comprobaciones": "2/2",
       "evidencia": "docker 29.9.3"
     },
@@ -28,7 +26,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T13:34:38.927Z",
-      "ultima": "2026-11-19T13:48:44.583Z",
+      "ultima": "2026-11-19T14:09:05.934Z",
       "comprobaciones": "9/9",
       "evidencia": ""
     },
@@ -38,7 +36,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T13:35:33.673Z",
-      "ultima": "2026-11-19T13:48:44.627Z",
+      "ultima": "2026-11-19T14:09:05.985Z",
       "comprobaciones": "15/15",
       "evidencia": ""
     },
@@ -48,7 +46,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T13:37:03.256Z",
-      "ultima": "2026-11-19T13:48:44.718Z",
+      "ultima": "2026-11-19T14:09:06.088Z",
       "comprobaciones": "12/12",
       "evidencia": ""
     },
@@ -58,7 +56,7 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T13:40:36.620Z",
-      "ultima": "2026-11-19T13:48:44.745Z",
+      "ultima": "2026-11-19T14:09:06.123Z",
       "comprobaciones": "6/6",
       "evidencia": ""
     },
@@ -68,9 +66,9 @@
       "extra": false,
       "ok": true,
       "primeraVez": "2026-11-19T14:06:44.314Z",
-      "ultima": "2026-11-19T14:06:44.314Z",
+      "ultima": "2026-11-19T14:09:12.946Z",
       "comprobaciones": "4/4",
-      "evidencia": "docker 29.9.3; imagen sha256:029a2e659902"
+      "evidencia": "docker 29.9.3; imagen sha256:2c6680c5442d"
     }
   }
 }
