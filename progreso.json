@@ -4,7 +4,7 @@
   "integrantes": [
     "Juan David Vergara"
   ],
-  "actualizado": "2026-11-19T14:09:04.717Z",
+  "actualizado": "2026-11-19T14:26:01.833Z",
   "entorno": {
     "node": "v26.13.0",
     "sistema": "win32 x64"
@@ -69,6 +69,16 @@
       "ultima": "2026-11-19T14:09:12.946Z",
       "comprobaciones": "4/4",
       "evidencia": "docker 29.9.3; imagen sha256:2c6680c5442d"
+    },
+    "6": {
+      "titulo": "Extra: datos que sobreviven en un volumen",
+      "puntos": 10,
+      "extra": true,
+      "ok": true,
+      "primeraVez": "2026-11-19T14:26:07.234Z",
+      "ultima": "2026-11-19T14:26:07.234Z",
+      "comprobaciones": "3/3",
+      "evidencia": "docker 29.9.3; volumen"
     }
   }
 }
